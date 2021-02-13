@@ -2,8 +2,8 @@
 
 🌟 Current working as an RTL Design Engineer.
 
-👀 I’m interested in RTL Design, Embedded Software Development, Software Development, and much more.
+👀 I’m into RTL Design, Embedded Software Development, GUI/CLI Software Development, Scripts, Math, Physics and much more.
 
-🎗️ I believe knowledge is all about sharing.
+🎗️ I believe knowledge is all about sharing, and learning is permanent.
 
 📫 Feel free to reach me - iammituraj@gmail.com
