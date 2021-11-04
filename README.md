@@ -1,7 +1,5 @@
 👋 Hi, I’m Mitu Raj from India.
 
-🌟 RTL Design Engineer by profession.
-
 👔 CEO at Chipmunk Logic™ - https://chipmunklogic.com
 
 👀 I’m into RTL Design, Embedded Software Development, GUI/CLI Software Development for OS, Scripts, Math, Physics and much more.
