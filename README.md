@@ -6,4 +6,4 @@
 
 🎓 I believe knowledge is all about sharing, and learning is permanent.
 
-📫 Feel free to reach me - iammituraj@gmail.com
+📫 Feel free to reach me - iammituraj@gmail.com or chip@chipmunklogic.com
