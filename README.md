@@ -1,6 +1,6 @@
 👋 Hi, I’m Mitu Raj from India.
 
-👔 Founder & Content Creator at Chipmunk Logic™ - https://chipmunklogic.com
+👔 Founder & CEO at Chipmunk Logic™ - https://chipmunklogic.com
 
 👀 I’m into RTL Design, Embedded Software Development, GUI/CLI Software Development for OS, Scripts, Math, Physics and much more.
 
