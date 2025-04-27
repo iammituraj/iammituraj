@@ -4,6 +4,8 @@
 
 👀 I’m into RTL Design, Embedded Software Development, GUI/CLI Software Development for OS, Scripts, Math, Physics and much more.
 
+🚩 Contributing to RISC-V open-source community as RISC-V International Member at riscv.org
+
 🎓 I believe knowledge is all about sharing, and learning is permanent.
 
 📫 Feel free to reach me - iammituraj@gmail.com or chip@chipmunklogic.com
