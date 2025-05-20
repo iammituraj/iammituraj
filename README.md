@@ -4,7 +4,7 @@
 
 👀 I’m into RTL Design, Embedded Software Development, GUI/CLI Software Development for OS, Scripts, Math, Physics and much more.
 
-🚩 Contributing to RISC-V open-source community in my blog and my CPU, [Pequeno](https://github.com/iammituraj/pequeno_riscv)
+🚩 Contributing to RISC-V community as an individual member at [riscv.org](https://riscv.org), and in my blogs with my RISC-V CPU, [Pequeno](https://github.com/iammituraj/pequeno_riscv)
 
 🎓 I believe knowledge is all about sharing, and learning is permanent.
 
